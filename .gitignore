@@ -1,0 +1,16 @@
+forensic-reports/
+dependency-audits/
+security-audits/api/
+security-audits/web/
+security-audits/network/
+security-audits/threat-intel/
+security-audits/cloud/
+security-audits/identity/
+.DS_Store
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.claude/settings.local.json
+backend/outputs/
