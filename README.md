@@ -1,4 +1,4 @@
-# Analyst-system
+# Kaa
 
 > **A multi-agent security analysis platform built on Claude Code.**  
 > 11 specialized agents · 27 Python backend scripts · 8 security departments · 754 cybersecurity skills
@@ -12,7 +12,7 @@
 
 ## Overview
 
-Analyst-system is a personal security operations platform that orchestrates specialized AI agents for on-demand security analysis. Built as a portfolio project under [Mowgli Studio](https://mowgli.studio), it demonstrates how Claude Code's multi-agent architecture can be applied to real-world security workflows: forensic triage, threat intelligence, dependency auditing, identity analysis, and live service testing.
+Kaa is a personal security operations platform that orchestrates specialized AI agents for on-demand security analysis. Built as a portfolio project under [Mowgli Studio](https://mowgli.studio), it demonstrates how Claude Code's multi-agent architecture can be applied to real-world security workflows: forensic triage, threat intelligence, dependency auditing, identity analysis, and live service testing.
 
 ### Design principles
 
